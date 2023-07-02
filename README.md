@@ -8,3 +8,7 @@
 * .number
 * validation
 * more computed properties
+
+
+
+*** Used and downloaded your zip starter file and added my code to it.
